@@ -1,0 +1,11 @@
+BONUS 2: DEPTH
+1 string: P O RSCHE
+1 set: Porsche [ 'TOGG', 'Renault' ]
+2 generator: Taycan M4 [ 'Clio' ]
+3 defaults: 761 952 calls: 1
+3 previous binding: 761 952
+4 catch: Missing car specification
+4 assignment targets: Renault 160
+5 lazy object defaults: 1 12 calls: 1
+5 deep: Ahmet Taycan
+5 refactored: Ahmet Taycan

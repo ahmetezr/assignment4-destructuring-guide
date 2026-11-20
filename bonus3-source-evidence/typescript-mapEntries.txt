@@ -1,0 +1,12 @@
+Source: TypeScript 5.8.3, typescript/lib/typescript.js, lines 2673-2683
+ 2673: function mapEntries(map2, f) {
+ 2674:   if (map2 === void 0) {
+ 2675:     return void 0;
+ 2676:   }
+ 2677:   const result = /* @__PURE__ */ new Map();
+ 2678:   map2.forEach((value, key) => {
+ 2679:     const [newKey, newValue] = f(key, value);
+ 2680:     result.set(newKey, newValue);
+ 2681:   });
+ 2682:   return result;
+ 2683: }
