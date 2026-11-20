@@ -716,6 +716,13 @@ I inspected the **Assignment 3 Task Manager source provided for this project** a
 
 Across these examples, destructuring is useful for React's fixed-position tuple results and short component props, but a complex parameter pattern mixed with long inline types can reduce clarity. The five Assignment 3 cases and the installed-library case have exact filenames, line numbers, form classifications, non-destructured equivalents, and analysis. Their source evidence is included with this project.
 
-# Bonus 4: Git repository (complete this after uploading)
+## Bonus 4: Git repository
 
-The GitHub or GitLab repository URL and a real commit history must be added **after** they have actually been created. Bonus 4 is **not claimed** until that is done. See `GITHUB_FINAL_STEP.md`. I have not invented or backdated commits.
+Repository:
+https://github.com/ahmetezr/assignment4-destructuring-guide
+
+The project is stored in a GitHub repository with five commits
+documenting the project configuration, JavaScript examples,
+TypeScript examples, field guide, and bonus work.
+
+The node_modules folder is excluded using .gitignore.
